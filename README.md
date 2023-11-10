@@ -13,11 +13,12 @@ after that run -npm run dev for running our backend
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### in mongodb database 
+### in mongodb database  
+all data comes from my backend
 make a folder name gofoodmern
 in which create collection of 4 folder 
-1) (foodcategory) collection in which insert the data of 
-2) (foor_items) collection in which insert the data of
+1) (foodcategory) collection in which insert the data of (foodCategory)folder which is available in datas file of code
+2) (foor_items) collection in which insert the data of (foodData2) folder which is available in datas file of code
 3) (users) collection which will store the data of new users
 4) (orders) collection which will store the order of the customer
 
